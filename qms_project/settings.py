@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-998ca2kr0ru=4(s*-2*1+4%1vv=acjrv_za08(qexmm1wejs)0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ["qms-demo-3.onrender.com", "127.0.0.1", "localhost"]
 
 
 # Application definition
